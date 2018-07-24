@@ -1,1 +1,2 @@
-judge_admin, account, tenant-gateway 给yapi 加测试
+judge_admin, account, tenant-gateway 给yapi 加测试 ok
+ok
